@@ -35,7 +35,7 @@ Text Domain: flusk
 
  /* Additional custom styles */
  .fixed-nav {
-    background-image: url(../images/traffic.jpg);
+    background-image: url(/images/traffic.jpg);
     background-color: rgba(51, 51, 51, 0.8); /* Slightly transparent background color */
             top: 0;
             left: 0;
@@ -322,7 +322,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #services {
-	background-image: url(../images/traffic.jpg);
+	background-image: url(/images/traffic.jpg);
 	color: white;
 }
 #parallax {
